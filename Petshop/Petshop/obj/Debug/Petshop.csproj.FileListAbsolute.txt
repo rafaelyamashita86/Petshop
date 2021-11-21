@@ -1,0 +1,17 @@
+C:\Programas\Petshop\Petshop\bin\Debug\DbPetshop.mdf
+C:\Programas\Petshop\Petshop\bin\Debug\DbPetshop_log.ldf
+C:\Programas\Petshop\Petshop\bin\Debug\Petshop.exe.config
+C:\Programas\Petshop\Petshop\bin\Debug\Petshop.exe
+C:\Programas\Petshop\Petshop\bin\Debug\Petshop.pdb
+C:\Programas\Petshop\Petshop\obj\Debug\Petshop.csproj.AssemblyReference.cache
+C:\Programas\Petshop\Petshop\obj\Debug\Petshop.FormFuncionario.resources
+C:\Programas\Petshop\Petshop\obj\Debug\Petshop.FormPrincipal.resources
+C:\Programas\Petshop\Petshop\obj\Debug\Petshop.Properties.Resources.resources
+C:\Programas\Petshop\Petshop\obj\Debug\Petshop.csproj.GenerateResource.cache
+C:\Programas\Petshop\Petshop\obj\Debug\Petshop.csproj.CoreCompileInputs.cache
+C:\Programas\Petshop\Petshop\obj\Debug\Petshop.exe
+C:\Programas\Petshop\Petshop\obj\Debug\Petshop.pdb
+C:\Programas\Petshop\Petshop\obj\Debug\Petshop.FormCliente.resources
+C:\Programas\Petshop\Petshop\obj\Debug\Petshop.FormAnimais.resources
+C:\Programas\Petshop\Petshop\obj\Debug\Petshop.FormServico.resources
+C:\Programas\Petshop\Petshop\obj\Debug\Petshop.FormAgenda.resources
